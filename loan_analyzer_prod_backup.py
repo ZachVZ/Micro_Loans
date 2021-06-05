@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 
 """
-Part 1: Automate Loan Calculations.
+Part 1: Automate Loan Calculations. the struggle
 """
 # Loan data below
 loan_costs = [500, 600, 200, 1000, 450]
